@@ -6,23 +6,19 @@ The goal of this exercise is to learn how to start testing in JavaScript.
 
 ### Step 1
 
-If you haven't already set up your project, head here and follow the instructions https://github.com/leanjscom/fb-messenger/blob/master/README.md
+Pull down the repository. Make sure that you have Node installed locally and use `nvm use` to bring it inline with the project.
+You can simply run the files directly using `node [filename]`
 
 
 ### Step 2
+Open in your code editor, edit the file you want to run then in your terminal run it with node, for example:
 ```sh
- git checkout testing-intro
+ cd my-test-framework
+ node 1-basic-unit-test.js
  ```
 
 ### Step 3
-```sh
- npm i
- ```
-
-## Bonus
-
-Use [deepFreeze](https://github.com/substack/deep-freeze) in your reducers to make sure the state is not mutated
-
+Follow in order of the numbers, there are two files for each, the one with "sol" in the name is the solution for reference.
 
 ## Articles and links
 
